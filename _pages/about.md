@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate, <a href='https://comp.anu.edu.au/'>The Australian National University</a> <br> Research Scientist, <a href=https://www.dst.defence.gov.au/>Defence Science and Technology Group</a> 
 
