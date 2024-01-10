@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: page
 permalink: /repositories/
-title: GitHub Repositories
+title: Repositories
 description: 
 nav: true
 nav_order: 3
@@ -40,4 +40,4 @@ nav_order: 3
     {% include repository/repo.html repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
+{% endif %} -->
