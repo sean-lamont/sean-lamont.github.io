@@ -70,6 +70,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: sean-lamont # your GitHub user name
 
 wandb: sean-a-lamont
+wandb_img: wandb.svg # place in assets/img
+
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
